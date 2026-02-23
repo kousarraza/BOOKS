@@ -1,2 +1,2 @@
 # BOOKS
-This repository is for books related to Python  AI, DS, ML, Python , DL. 
+In this repository  you will find books about the  programming, math, artificial intelligence, etc.
